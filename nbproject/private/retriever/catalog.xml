@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://wirecloud.conwet.fi.upm.es/ns/widget" uri="wirecloud.conwet.fi.upm.es/login.next_/ns/widget"/>
+    <system systemId="http://purl.org/goodrelations/v1" uri="www.heppnetz.de/ontologies/goodrelations/v1.xml"/>
+    <system systemId="http://www.w3.org/2006/vcard/ns" uri="www.w3.org/2006/vcard/ns"/>
+    <system systemId="http://xmlns.com/foaf/0.1/" uri="xmlns.com/foaf/0.1/index"/>
+    <system systemId="http://www.w3.org/2004/02/skos/core" uri="www.w3.org/2004/02/skos/core"/>
+    <system systemId="http://www.w3.org/2000/01/rdf-schema" uri="www.w3.org/2000/01/rdf-schema.xml"/>
+    <system systemId="http://purl.org/dc/terms/" uri="dublincore.org/2012/06/14/dcterms"/>
+    <system systemId="http://www.w3.org/1999/02/22-rdf-syntax-ns" uri="www.w3.org/1999/02/22-rdf-syntax-ns.xml"/>
+</catalog>
