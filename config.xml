@@ -14,7 +14,7 @@
         <wire:displayName>IGN NGCE Inspire - Configurador de servicio</wire:displayName>
         <dcterms:description>Este operador permite configurar el nomenclátor para utilizar el servicio de NGCE Inspire de IGN.</dcterms:description>
         <dcterms:creator rdf:resource="http://creatoruri/"/>
-        <usdl-core:versionInfo>1.2</usdl-core:versionInfo>
+        <usdl-core:versionInfo>1.3</usdl-core:versionInfo>
         <wire:hasImageUri rdf:resource="images/catalogue.png"/>
         <usdl-core:utilizedResource rdf:resource="js/main.js"/>
         <foaf:page rdf:resource="http://conwet.fi.upm.es/docs/display/wirecloud"/>
@@ -34,7 +34,7 @@
                         <dcterms:description>Service config</dcterms:description>
                         <wire:type>text</wire:type>
                         <rdfs:label>Config</rdfs:label>
-                        <wire:friendcode>config</wire:friendcode>
+                        <wire:friendcode>nomen_config</wire:friendcode>
                     </wire:OutputEndpoint>
                 </wire:hasOutputEndpoint>
             </wire:PlatformWiring>
